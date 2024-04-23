@@ -1,6 +1,6 @@
 ## Elounda
 
-Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
+Elounda is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
 ![Introducing](https://github.com/silverblurtype/elounda/assets/163983174/130f1149-ae7f-4d65-9a66-9733e18e4384)
 
