@@ -26,3 +26,6 @@ If you feel that the font could be useful to you, you can sponsor the project wi
 [Paypal](https://www.paypal.com/paypalme/vlrntype)
 
 I’m very grateful for any support.
+
+## Download:
+[] 
