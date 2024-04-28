@@ -19,3 +19,10 @@ https://openfontlicense.org
 
 ## Version:
 1.0: initial release
+
+## Contribute:
+If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
+
+[Paypal](https://www.paypal.com/paypalme/vlrntype)
+
+I’m very grateful for any support.
