@@ -29,4 +29,4 @@ I’m very grateful for any support.
 
 ## Download:
 
-[Elounda-1_1] (https://github.com/silverblurtype/elounda/releases/download/font/Elounda-1_1.zip)
+[Elounda-1_1](https://github.com/silverblurtype/elounda/releases/download/font/Elounda-1_1.zip)
