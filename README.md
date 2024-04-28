@@ -14,6 +14,8 @@ Elounda is a modern and geometric typeface.
 ## License:
 Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/elounda)
 
-
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
+
+## Version:
+1.0: initial release
