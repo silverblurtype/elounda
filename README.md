@@ -18,7 +18,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 https://openfontlicense.org
 
 ## Version:
-1.001: initial release
+1.1: initial release
 
 ## Contribute:
 If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
