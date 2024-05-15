@@ -14,20 +14,14 @@ Elounda is a modern, geometric and minimalistic font constructed with a few geom
 ![Font_specimen 2](https://github.com/silverblurtype/elounda/assets/163983174/8bf48a8f-f2fa-4586-a342-0fcf3bedc060)
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/elounda)
+Copyright (c) 2024, Silverblur_type 
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
+The typefaces can be freely used for personal and commercial purposes, in accordance with the terms outlined in the license itself, which can be found in the license.txt file and at the following link: 
 https://openfontlicense.org
 
 ## Version:
 1.1: initial release
 
-## Contribute:
-If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
-
-[Paypal](https://www.paypal.com/paypalme/vlrntype)
-
-I’m very grateful for any support.
 
 ## Download:
 
