@@ -1,4 +1,4 @@
-## Elounda
+# Elounda
 
 
 ![Introducing](https://github.com/silverblurtype/elounda/assets/163983174/130f1149-ae7f-4d65-9a66-9733e18e4384)
