@@ -3,11 +3,13 @@
 
 ![Introducing](https://github.com/silverblurtype/elounda/assets/163983174/130f1149-ae7f-4d65-9a66-9733e18e4384)
 
-Elounda is a modern and geometric typeface.
+## Features:
+Elounda is a modern, geometric and minimalistic font constructed with a few geometric shapes with constant thickness.
 
-- Type of usage: graphic projects, logos, branding, packaging.
-  
+- Type of use: graphic projects, displays, branding, logos, headlines.
 - All uppercase characters: the lowercase character is equal to the uppercase.
+- Language support
+- Kerning
 
 ![Font_specimen 2](https://github.com/silverblurtype/elounda/assets/163983174/8bf48a8f-f2fa-4586-a342-0fcf3bedc060)
 
